@@ -1,5 +1,5 @@
 
-## 🔭 Full Stack Developer at Pursuit Software| Machine Learning Enthusiast [![HitCount](http://hits.dwyl.com/Sayan3sarkar/Sayan3sarkar.svg)](http://hits.dwyl.com/Sayan3sarkar/Sayan3sarkar)
+## 🔭 Full Stack Developer at Pursuit Software| AWS
 
 ` 😄 Shahrukh Jethra` |  `🌱 Gujarat, India` | <a href="https://www.linkedin.com/in/shahrukh-jethra-a2b5aa142/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `linkedin.com/in/shahrukh-jethra-a2b5aa142`
 
